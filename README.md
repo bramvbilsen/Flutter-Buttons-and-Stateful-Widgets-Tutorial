@@ -1,8 +1,6 @@
-# tutorial
+# Flutter SDK: Buttons & Stateful Widgets tutorial
 
-A new flutter project.
+This repo contains the code as seen in this youtube tutorial video: https://youtu.be/6f1rTeDm9oE
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](http://flutter.io/).
+## More about Flutter SDK
+For help getting started with Flutter, go to the Flutter docs: https://docs.flutter.io/
