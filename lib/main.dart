@@ -22,7 +22,7 @@ class AwesomeButtonState extends State<AwesomeButton> {
   void onPressed() {
     setState(() {
       displayedString = strings[counter];
-      counter = counter < 2 ? counter + 1 : 0;
+      counter = counter < strings.length - 1 ? counter + 1 : 0;
     });
   }
 
